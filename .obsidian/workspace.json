@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "5c869692320c99cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdcf050dc293fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab6e5265cfb25487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объектно-ориентированное программирование (ООП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "598596b6b3ad78e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a7bde9724930eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "220f5986023fdde6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f9a524161a89a30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06be7afccf4c133b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "1d47a12871f74e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f8437abb5ae8a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d01c0b7a09056d2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Объектно-ориентированное программирование (ООП).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae9ba7de419ca4e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Объектно-ориентированное программирование (ООП).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c0dc1831234cdd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d57bdd620cdf6d3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Объектно-ориентированное программирование (ООП).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ab6e5265cfb25487",
+  "lastOpenFiles": [
+    "Файлы в Python.md",
+    "Объектно-ориентированное программирование (ООП).md",
+    "JSON.md",
+    "REST API.md",
+    "Requests.md",
+    "Структуры данных/Dict.md",
+    "Структуры данных/List.md",
+    "Структуры данных/Str.md",
+    "Структуры данных/Без названия",
+    "Резюме.md",
+    "срезы.md",
+    "Структуры данных",
+    "2024-05-16.md"
+  ]
+}
