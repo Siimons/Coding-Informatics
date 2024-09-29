@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "Projects/Dev Talk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.md",
+                "file": "Projects/Dev Talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.md",
+                "file": "Projects/Dev Talk.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.md"
+                "file": "Projects/Dev Talk.md"
               }
             }
           }
@@ -149,19 +149,22 @@
   },
   "active": "ab6e5265cfb25487",
   "lastOpenFiles": [
-    "Файлы в Python.md",
-    "REST API.md",
-    "Requests.md",
-    "JSON.md",
+    "Base/REST API.md",
+    "Projects/Dev Talk.md",
+    "Projects",
+    "Base",
+    "Base/JSON.md",
+    "Base/Файлы в Python.md",
+    "Base/Requests.md",
     "Объектно-ориентированное программирование (ООП).md",
     "ООП.md",
-    "Структуры данных/Dict.md",
-    "Структуры данных/List.md",
-    "Структуры данных/Str.md",
+    "Base/Структуры данных/Dict.md",
+    "Base/Структуры данных/List.md",
+    "Base/Структуры данных/Str.md",
     "Структуры данных/Без названия",
     "Резюме.md",
     "срезы.md",
-    "Структуры данных",
+    "Base/Структуры данных",
     "2024-05-16.md"
   ]
 }
